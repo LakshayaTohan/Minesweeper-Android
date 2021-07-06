@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="restart">Restart</string>
+    <string name="select_difficulty">Select difficulty</string>
+    <string name="easy">Easy (9x9, 10 mines)</string>
+    <string name="normal">Normal (16x16, 40 mines)</string>
+    <string name="hard">Hard (24x24, 99 mines)</string>
+    <string name="custom">Custom (Max 30x30)</string>
+    <string name="columns">Columns</string>
+    <string name="mines">Mines</string>
+    <string name="ok">Ok</string>
+    <string name="rows">Rows</string>
+</resources>
